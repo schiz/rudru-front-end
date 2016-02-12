@@ -1,6 +1,6 @@
 # Rudru-front-end
 
-The front-end code for Rudru is under NDA, so the code is not be publicly visible.
+The front-end code for Rudru is under NDA, so the code is not publicly visible.
 
 But still you can experience the developed UI by following the links below:
 

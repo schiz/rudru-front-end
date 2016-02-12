@@ -17,7 +17,7 @@ But still you can experience the developed UI by following the links below:
 
 ## Building cards
 
-* [Newdeveopment](http://rudru.ru/new_site/dist/newdevelopment.html)
+* [Newdevelopment](http://rudru.ru/new_site/dist/newdevelopment.html)
 * [Housecomplex](http://rudru.ru/new_site/dist/housecomplex.html)
 * [Business centre](http://rudru.ru/new_site/dist/business-centre.html)
 * [Trade centre](http://rudru.ru/new_site/dist/trade-centre.html)
